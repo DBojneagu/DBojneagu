@@ -4,7 +4,7 @@
  <br>
  <h1> University of Bucharest , Computer Science, Year II </h1>
  <br>
- <h1>Technologies</h1>
+ <h1>Experience with </h1>
  <br>
 
 <p>
