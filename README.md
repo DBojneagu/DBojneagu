@@ -1,10 +1,13 @@
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-bojneagu-1016b3225/)
 
- <h1>    Bojneagu David , University  Student </h1>
+      
+ <p align="center">
+  <img width="300" height="300" src ="https://i.stack.imgur.com/1dpmw.gif">
+</p>
+ <h1 align ="center">    Bojneagu David , University  Student </h1>
  <br>
- <h1> University of Bucharest , Computer Science, Year II </h1>
+ <h1 align ="center"> University of Bucharest , Computer Science, Year II </h1>
  <br>
- <h1>Experience with </h1>
+ <h1 align ="center">Experience with </h1>
  <br>
 
 <p>
