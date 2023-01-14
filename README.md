@@ -1,16 +1,21 @@
-### Hi there 👋
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-bojneagu-1016b3225/)
 
-<!--
-**DBojneagu/DBojneagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :technologist: Bojneagu David , University  Student 
+### :classical_building: University of Bucharest , Computer Science, Year II 
+### Technologies:
 
-Here are some ideas to get you started:
+<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  
+  
+</p>
+
+
+
+
